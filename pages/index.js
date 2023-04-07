@@ -14,9 +14,7 @@ export default function Home({ allPostsData }) {
       <section className={utilStyles.headingMd}>
         <p>
           {" "}
-          I'm sorry, but I don't have any information about you. As an AI
-          language model, I don't have access to any personal details or
-          background information about individuals unless they provide it to me.{" "}
+          I'm sorry, but I don't have any information about myself.
         </p>{" "}
         <p>
           (This is a sample website - you’ ll be building a site like this on{" "}
